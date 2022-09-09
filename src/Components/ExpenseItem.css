@@ -1,0 +1,24 @@
+li {
+  background-color: white;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+li .amount {
+  background-color: brown;
+  color: white;
+  padding: 5px;
+}
+.edit {
+  color: green;
+  margin-right: 1.3rem;
+  border: none;
+  background-color: transparent;
+}
+
+.delete {
+  color: brown;
+  border: none;
+  background-color: transparent;
+}

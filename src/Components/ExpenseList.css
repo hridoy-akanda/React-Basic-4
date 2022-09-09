@@ -1,0 +1,12 @@
+.btn {
+  border: none;
+  color: white;
+  background-color: brown;
+  padding: 9px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin: 20px auto;
+}
+button .btn-icon {
+  padding-top: 2px;
+}

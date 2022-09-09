@@ -1,0 +1,14 @@
+.alert {
+  max-width: 60%;
+  text-transform: capitalize;
+  color: white;
+  font-size: 1.1rem;
+  padding: 10px;
+  margin: 20px auto;
+}
+.alert-success {
+  background-color: darkgreen;
+}
+.alert-danger {
+  background-color: brown;
+}

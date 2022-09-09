@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+.container {
+  background-color: rgb(83, 83, 83);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+}
+h1 {
+  margin-bottom: 20px;
+}
+main {
+  background-color: aliceblue;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 90%;
+}
+@media screen and (min-width: 600px) {
+  main {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 992px) {
+  main {
+    width: 60%;
+  }
+}
